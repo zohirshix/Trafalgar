@@ -211,13 +211,13 @@ h2 {
 }
 
 .box__item:hover {
-    background-color: green;
+    /* background-color: green;
     color: white;
-    box-shadow: 10px 10px 10px green;
+    box-shadow: 10px 10px 10px green; */
 }
 
 .box__text1:hover {
-    color: white;
+    color: rgb(0, 0, 0);
     box-shadow: 5px 5px 5px black;
 }
 
